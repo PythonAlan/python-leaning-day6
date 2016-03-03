@@ -1,0 +1,15 @@
+chicken,9,10.0,false,0,false,0,false,0
+pig,9,20.0,false,0,false,0,false,0
+cow,8,28.0,false,0,false,0,false,0
+holy symbol,8,200,false,0,false,0,false,0
+dog,8,30,false,0,false,0,false,0
+sword,0,80,True,10,false,0,false,0
+axe,-10,60,True,8,false,0,false,0
+dagger,-10,10,True,4,false,0,false,0
+lantern,-10,25,false,0,false,0,false,0
+waterbag,-10,10,false,0,false,0,false,0
+plate armor,0,400,false,0,true,8,false,0
+chain armor,-10,110,false,0,true,6,false,0
+leather armor,-10,50,false,0,true,4,false,0
+shield,0,30,false,0,false,0,true,1
+gem,12,200,false,0,false,0,false,0
